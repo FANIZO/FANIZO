@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FANIZO/FANIZO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=500&lines=Initializing+system...;Access+granted.;Welcome+to+my+terminal.;I+turn+coffee+into+code.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SYSTEM_LOG // WHO_AM_I
+```console
+root@github:~$ whoami
+System Architect | Backend Developer | Open Source Contributor
+
+root@github:~$ cat current_mission.txt
+> Engineering highly scalable systems and breaking them just to see how they work. 
+> Currently deep diving into Rust and distributed architectures.
